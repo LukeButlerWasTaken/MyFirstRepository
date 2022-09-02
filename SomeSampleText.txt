@@ -1,0 +1,2 @@
+This is some sample text that I entered to test my FirstRepository.
+I hope it works.
